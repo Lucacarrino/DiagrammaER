@@ -1,4 +1,4 @@
-<div style="display: flex;">
+<div style="display: flex; flex:wrap;">
   
 <code style='width: 50vw;'>
 SELECT * FROM studenti WHERE corso = 'Informatica';
