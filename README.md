@@ -48,7 +48,7 @@ render_er("sqlite:///universita.db", "schema.png")
   <td></td>
   <td></td>
   <tr>
-    <td><td><code>import graphviz
+    <td><pre><code>import graphviz
 
 
 grafico = graphviz.Graph(comment="Schema ER")
