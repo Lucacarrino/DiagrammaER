@@ -45,8 +45,8 @@ render_er("sqlite:///universita.db", "schema.png")
 
     
   </tr>
-  <tr></tr>
-  <tr></tr>
+  <td></td>
+  <td></td>
   <tr>
     <td><td><code>import graphviz
 
