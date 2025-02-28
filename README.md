@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <pre><code>
 from sqlalchemy import Column, Integer, String, ForeignKey, create_engine
 from sqlalchemy.orm import relationship, declarative_base
@@ -39,7 +39,7 @@ Base.metadata.create_all(database)
 render_er("sqlite:///universita.db", "schema.png")
       </code></pre>
     </td>
-    <td valign="top">
+    <td>
       <img src="ER ALCHEMY2/schema.png" alt="Schema ER">
     </td>
 
