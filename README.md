@@ -1,5 +1,5 @@
-<table>
-  <tr style='border-color: transparent;'>
+<table style='border-color: transparent;'>
+  <tr>
     <td  valign="top">
       <pre><code>
 from sqlalchemy import Column, Integer, String, ForeignKey, create_engine
