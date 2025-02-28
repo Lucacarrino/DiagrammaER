@@ -63,7 +63,7 @@ grafico.edge("C", "R")
 
 
 grafico.render("schema", format="png", view=True)</code></pre></td>
-    <td><img src="graphviz/schema.png" alt="Schema ER" width="300"></td>
+    <td><img src="graphviz/schema.png" alt="Schema ER" width="600"></td>
     
   </tr>
 </table>
