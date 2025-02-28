@@ -40,7 +40,7 @@ render_er("sqlite:///universita.db", "schema.png")
       </code></pre>
     </td>
     <td valign="top">
-      <img src="ER ALCHEMY2/schema.png" alt="Schema ER" width="300">
+      <img src="ER ALCHEMY2/schema.png" alt="Schema ER">
     </td>
 
     
