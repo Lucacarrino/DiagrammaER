@@ -1,4 +1,4 @@
-<table style='border:0;'>
+<table>
   <tr>
     <td  valign="top">
       <pre><code>
@@ -42,5 +42,10 @@ render_er("sqlite:///universita.db", "schema.png")
     <td valign="top">
       <img src="ER ALCHEMY2/schema.png" alt="Schema ER" width="300">
     </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><img src="graphviz/schema.png" alt="Schema ER" width="300"></td>
+    
   </tr>
 </table>
