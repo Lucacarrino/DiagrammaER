@@ -4,5 +4,5 @@
 SELECT * FROM studenti WHERE corso = 'Informatica';
 </code>
   </pre>
-  <img src="schema.png" alt="Schema ER" width="300">
+  <img src="ER ALCHEMY2/schema.png" alt="Schema ER" width="300">
 </div>
