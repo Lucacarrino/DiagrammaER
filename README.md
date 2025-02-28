@@ -1,4 +1,4 @@
-<table style='border-color: transparent;'>
+<table style='border:0;'>
   <tr>
     <td  valign="top">
       <pre><code>
