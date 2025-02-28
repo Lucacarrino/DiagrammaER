@@ -1,4 +1,4 @@
-`from sqlalchemy import Column, Integer, String, ForeignKey, create_engine
+```from sqlalchemy import Column, Integer, String, ForeignKey, create_engine
 from sqlalchemy.orm import relationship, declarative_base
 from eralchemy2 import render_er
 
@@ -32,6 +32,6 @@ class Iscrizione(Base):
 
 database = create_engine("sqlite:///universita.db")
 Base.metadata.create_all(database)
-render_er("sqlite:///universita.db", "schema.png")`
+render_er("sqlite:///universita.db", "schema.png")```
 
 ![Schema ER](ER%20ALCHEMY2/schema.png)
