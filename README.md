@@ -50,7 +50,6 @@ render_er("sqlite:///universita.db", "schema.png")
   <tr>
     <td><pre><code>import graphviz
 
-
 grafico = graphviz.Graph(comment="Schema ER")
 
 grafico.node("S", "Studente | {<id> ID(pk) | nome}", shape="record", fontcolor="black")
